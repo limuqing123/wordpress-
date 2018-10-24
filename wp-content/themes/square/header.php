@@ -11,6 +11,9 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="永海劳保、劳保用品、包装材料、办公文具、宝安劳保"/>
+<meta name="author" content="李木庆"/>
+<meta name="description" content="这是一个出售劳保用品、办公文具、包装材料的网页"/>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
